@@ -70,26 +70,13 @@ The app includes:
 ---
 
 ##  How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
-   ```
+1. Clone the repository
 
 2. Open in Android Studio
 
 3. Sync Gradle
 
 4. Run on emulator or physical device
-
----
-
-##  Screenshots
-(Add your screenshots here)
-
-```
-![Home Screen](screenshots/home.png)
-![Result Screen](screenshots/result.png)
-```
 
 ---
 
